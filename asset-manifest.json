@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phaser02/static/css/main.c2353f87.css",
+    "main.js": "/phaser02/static/js/main.056a895b.js",
+    "static/js/453.86e77b2c.chunk.js": "/phaser02/static/js/453.86e77b2c.chunk.js",
+    "index.html": "/phaser02/index.html",
+    "main.c2353f87.css.map": "/phaser02/static/css/main.c2353f87.css.map",
+    "main.056a895b.js.map": "/phaser02/static/js/main.056a895b.js.map",
+    "453.86e77b2c.chunk.js.map": "/phaser02/static/js/453.86e77b2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2353f87.css",
+    "static/js/main.056a895b.js"
+  ]
+}
